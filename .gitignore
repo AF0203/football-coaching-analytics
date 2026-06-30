@@ -1,0 +1,28 @@
+# Daten — komplett ignorieren (zu groß für GitHub)
+data/
+notebooks/
+
+# Modelle — zu groß
+models/
+*.pt
+*.pkl
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+._*
+
+# Output (zu groß, Videos/JSONs)
+output/
+
+# IDE
+.vscode/
+
+# Environment
+.env
+scraping/whoscored-scraper/
