@@ -29,30 +29,30 @@ from selenium.webdriver.firefox.options import Options
 #  KONFIGURATION — hier anpassen pro Trainer
 # ══════════════════════════════════════════════════════════════════
 
-TRAINER_ID = "tr_065"
+TRAINER_ID = "tr_006"
 
 STATION = {
-    "liga_id": "bundesliga",
-    "team_id": "796",
+    "liga_id": "premier_league",
+    "team_id": "167",
     "urls": [
-        "https://www.whoscored.com/matches/1643259/live/germany-bundesliga-2022-2023-union-berlin-bochum",
-        "https://www.whoscored.com/matches/1643283/live/germany-bundesliga-2022-2023-borussia-m-gladbach-union-berlin",
-        "https://www.whoscored.com/matches/1643295/live/germany-bundesliga-2022-2023-union-berlin-bayer-leverkusen",
-        "https://www.whoscored.com/matches/1643321/live/germany-bundesliga-2022-2023-augsburg-union-berlin",
-        "https://www.whoscored.com/matches/1643333/live/germany-bundesliga-2022-2023-union-berlin-freiburg",
-        "https://www.whoscored.com/matches/1643217/live/germany-bundesliga-2022-2023-hoffenheim-union-berlin",
-        "https://www.whoscored.com/matches/1643232/live/germany-bundesliga-2022-2023-union-berlin-werder-bremen",
-        "https://www.whoscored.com/matches/1743391/live/germany-bundesliga-2023-2024-union-berlin-mainz-05",
-        "https://www.whoscored.com/matches/1743408/live/germany-bundesliga-2023-2024-darmstadt-union-berlin",
-        "https://www.whoscored.com/matches/1743410/live/germany-bundesliga-2023-2024-union-berlin-rb-leipzig",
-        "https://www.whoscored.com/matches/1743421/live/germany-bundesliga-2023-2024-wolfsburg-union-berlin",
-        "https://www.whoscored.com/matches/1743429/live/germany-bundesliga-2023-2024-union-berlin-hoffenheim",
-        "https://www.whoscored.com/matches/1743443/live/germany-bundesliga-2023-2024-fc-heidenheim-union-berlin",
-        "https://www.whoscored.com/matches/1743446/live/germany-bundesliga-2023-2024-borussia-dortmund-union-berlin",
-        "https://www.whoscored.com/matches/1743455/live/germany-bundesliga-2023-2024-union-berlin-vfb-stuttgart",
-        "https://www.whoscored.com/matches/1743468/live/germany-bundesliga-2023-2024-werder-bremen-union-berlin",
-        "https://www.whoscored.com/matches/1743473/live/germany-bundesliga-2023-2024-union-berlin-eintracht-frankfurt",
-        "https://www.whoscored.com/matches/1743528/live/germany-bundesliga-2023-2024-bayer-leverkusen-union-berlin",
+        "https://www.whoscored.com/matches/1903222/live/england-premier-league-2025-2026-manchester-city-liverpool",
+        "https://www.whoscored.com/matches/1903242/live/england-premier-league-2025-2026-manchester-city-leeds",
+        "https://www.whoscored.com/matches/1903251/live/england-premier-league-2025-2026-fulham-manchester-city",
+        "https://www.whoscored.com/matches/1903480/live/england-premier-league-2025-2026-manchester-city-sunderland",
+        "https://www.whoscored.com/matches/1903488/live/england-premier-league-2025-2026-crystal-palace-manchester-city",
+        "https://www.whoscored.com/matches/1903290/live/england-premier-league-2025-2026-manchester-city-west-ham",
+        "https://www.whoscored.com/matches/1903323/live/england-premier-league-2025-2026-nottingham-forest-manchester-city",
+        "https://www.whoscored.com/matches/1903340/live/england-premier-league-2025-2026-manchester-city-wolves",
+        "https://www.whoscored.com/matches/1903277/live/england-premier-league-2025-2026-tottenham-manchester-city",
+        "https://www.whoscored.com/matches/1903298/live/england-premier-league-2025-2026-liverpool-manchester-city",
+        "https://www.whoscored.com/matches/1903327/live/england-premier-league-2025-2026-manchester-city-fulham",
+        "https://www.whoscored.com/matches/1903385/live/england-premier-league-2025-2026-manchester-city-newcastle",
+        "https://www.whoscored.com/matches/1903473/live/england-premier-league-2025-2026-chelsea-manchester-city",
+        "https://www.whoscored.com/matches/1903378/live/england-premier-league-2025-2026-manchester-city-arsenal",
+        "https://www.whoscored.com/matches/1903389/live/england-premier-league-2025-2026-burnley-manchester-city",
+        "https://www.whoscored.com/matches/1903413/live/england-premier-league-2025-2026-everton-manchester-city",
+        "https://www.whoscored.com/matches/1903432/live/england-premier-league-2025-2026-manchester-city-brentford",
+        "https://www.whoscored.com/matches/1903466/live/england-premier-league-2025-2026-manchester-city-crystal-palace",
     ]
 }
 # ══════════════════════════════════════════════════════════════════

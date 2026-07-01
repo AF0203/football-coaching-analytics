@@ -8,7 +8,7 @@ Trainer-Profile Builder
 
 Aufruf:
     python3 scripts/build_trainer_profiles.py
-    python scripts/build_trainer_profiles.py --trainer tr_001
+    python3 scripts/build_trainer_profiles.py --trainer tr_006
 """
 
 import sys, os, argparse, pickle, warnings

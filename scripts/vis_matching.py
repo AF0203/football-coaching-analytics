@@ -9,8 +9,8 @@ Aufruf:
         --team bl_44 \
         --liga bundesliga \
         --saison 2025_26 \
-        --trainer tr_001 \
-        --ranking balance
+        --trainer tr_006 \
+        --ranking fortführer
 """
 
 import sys, os, argparse, json, warnings
